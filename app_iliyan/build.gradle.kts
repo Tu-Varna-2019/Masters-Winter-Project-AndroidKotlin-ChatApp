@@ -2,7 +2,7 @@ plugins {
   id("com.android.application")
   id("org.jetbrains.kotlin.android")
   id("org.sonarqube") version "4.4.1.3373"
-  kotlin("plugin.serialization") version "1.5.20"
+  kotlin("plugin.serialization") version "1.9.23"
 }
 
 sonar {
