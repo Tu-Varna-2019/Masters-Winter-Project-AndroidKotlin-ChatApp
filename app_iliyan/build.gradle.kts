@@ -79,7 +79,7 @@ dependencies {
   implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.1")
   implementation("org.apache.logging.log4j:log4j-api:2.20.0")
   annotationProcessor("org.apache.logging.log4j:log4j-core:2.20.0")
-  implementation("androidx.compose.runtime:runtime-livedata:1.5.4")
+  implementation("androidx.compose.runtime:runtime-livedata:1.6.4")
   implementation("androidx.work:work-runtime-ktx:2.9.0")
   implementation("io.coil-kt:coil-compose:2.5.0")
 }
